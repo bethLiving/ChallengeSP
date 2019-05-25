@@ -1,0 +1,32 @@
+body{ 
+    text-align: center; 
+  font-family: sans-serif; 
+} 
+h1{ 
+  color: #000; 
+  font-weight: 100; 
+  font-size: 40px; 
+  margin: 45px 0px 20px; 
+} 
+ #allTimer{ 
+    display: inline-block; 
+    font-weight: 100; 
+    text-align: center; 
+    font-size: 30px; 
+} 
+#allTimer > div{ 
+    padding: 10px; 
+    border-radius: 2px; 
+    border-color: #000;
+    display: inline-block; 
+} 
+#allTimer div > span{ 
+    padding: 12px; 
+    border-radius: 2px; 
+    display: inline-block; 
+} 
+textTimer{ 
+    padding-top: 7px; 
+    font-size: 14px; 
+} 
+    
